@@ -94,3 +94,18 @@ Full-Stack Development
 
 
 
+
+
+<!-- PROJECTS:START -->
+
+| Project | Live Demo |
+|---|---|
+| **Flexbox Pricing Table Project** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/Flexbox%2BPricing%2BTable%2BProject/index.html) |
+| **Web Design Agency Project** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/Web%20Design%20Agency%20Project/index.html) |
+| **Birthday Invite** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/birthday-invite/birthday-invite.html) |
+| **Color Vocab** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/color-vocab/index.html) |
+| **Css Flag** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/css-flag/index.html) |
+| **Motivation Meme** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/motivation-meme/index.html) |
+| **Movie Ranking** | [Live Demo →](https://bhimannasagar23.github.io/projects-portfolio/projects/movie-ranking/movie-ranking.html) |
+
+<!-- PROJECTS:END -->
