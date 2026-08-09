@@ -1,38 +1,56 @@
-# 🌐 Web Development Projects
+# 🌐 Bhimanna Sagar — Web Development Portfolio
 
-Welcome to my web development journey! 🚀
+<p align="center">
+  <a href="https://bhimannasagar23.github.io/projects-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-222222?style=for-the-badge" alt="Live Portfolio">
+  </a>
+</p>
 
-This repository contains the projects I build while learning and practicing web development.
+<p align="center">
+  <b>Learning • Building • Improving</b>
+</p>
 
-I started with HTML and CSS and I'm continuously learning new technologies and improving my skills by building real projects.
+---
 
-## 🔗 Live Portfolio
+## 👋 About This Repository
 
-👉 **[Visit My Portfolio](https://bhimannasagar23.github.io/projects-portfolio/)**
+Welcome to my web development journey.
+
+This repository contains the projects I build while learning web development. I started with the fundamentals and continue to improve by building real projects and experimenting with new technologies.
+
+My goal is to become a strong full-stack developer through consistent learning, practice, and project building.
+
+---
+
+## 🚀 Live Portfolio
+
+### 🌐 [Visit My Portfolio →](https://bhimannasagar23.github.io/projects-portfolio/)
+
+All of my projects are showcased on my live portfolio.
 
 ---
 
 ## 📂 Projects
 
-| Project | Technologies | Live Demo |
-|---|---|---|
-| 🎬 Movie Ranking | HTML | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/movie-ranking/) |
-| 🎂 Birthday Invite | HTML | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/birthday-invite/) |
-| 🎨 Color Vocabulary | HTML, CSS | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/color-vocab/) |
-| 😂 Motivation Meme | HTML, CSS | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/motivation-meme/) |
-| 🇮🇳 CSS Flag | HTML, CSS | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/css-flag/) |
-| 🏢 Web Design Agency | HTML, CSS | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/web-design-agency/) |
-| 💰 Flexbox Pricing Table | HTML, CSS, Flexbox | [View Project](https://bhimannasagar23.github.io/projects-portfolio/projects/flexbox-pricing-table/) |
+<!-- PROJECTS:START -->
+
+| Project | Live Demo |
+|---|---|
+| Projects will appear here automatically | — |
+
+<!-- PROJECTS:END -->
+
+> 💡 This section is automatically updated whenever I add a new project to the `projects/` folder.
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Technologies
 
 ### Currently Learning
 
 - HTML5
 - CSS3
-- Flexbox
+- CSS Flexbox
 - Responsive Web Design
 
 ### Coming Next
@@ -40,14 +58,16 @@ I started with HTML and CSS and I'm continuously learning new technologies and i
 - CSS Grid
 - JavaScript
 - DOM Manipulation
+- Advanced JavaScript
 - Git & GitHub
 - React
 - Node.js
 - Databases
+- Full-Stack Development
 
 ---
 
-## 📈 My Learning Journey
+## 📈 Learning Roadmap
 
 ```text
 HTML
@@ -67,5 +87,7 @@ Advanced JavaScript
 React
   ↓
 Node.js
+  ↓
+Databases
   ↓
 Full-Stack Development
